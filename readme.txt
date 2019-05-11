@@ -1,7 +1,4 @@
 # Readme.txt
 
-Implementation details:
-
-Retrieve Operator: 
-
-Setting roles to dataset content:
+Developed by: Glaucia Melo. 
+Published in SEKE Conference (2019).
